@@ -1,0 +1,1 @@
+-- <$> is fmap, <$ replace every value with sth what was put in front of it
